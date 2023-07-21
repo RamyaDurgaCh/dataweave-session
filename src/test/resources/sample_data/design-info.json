@@ -1,0 +1,8 @@
+{
+  "sampleData": {
+    "d2d5c9ce-b039-4659-a227-1a9d0b205406": {
+      "payload": "sample_data/java.dwl",
+      "attributes": "sample_data/httprequestattributes.dwl"
+    }
+  }
+}
